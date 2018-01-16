@@ -20,7 +20,7 @@ public class Patients extends baseClass
 {
 
 	WebDriver driver;
-	 // test
+	 // testdsf
 	
 	@Test(priority=1, description="This TC to verify the Add Prescription")
 	public void Add_prescription() throws InterruptedException
