@@ -15,7 +15,7 @@ public class baseClass {
 	protected WebDriver driver;
 	 String url="http://96.84.175.78/MMP-Release2-Admin-Build.2.1.000/login.php";
 	 
-	// testfd
+	// maria 
 	@BeforeMethod
 	public void login_Page() throws InterruptedException
 	{
