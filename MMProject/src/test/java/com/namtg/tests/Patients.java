@@ -40,7 +40,7 @@ public class Patients extends baseClass
 		addPrescription.submit();		
 	}
 	
-	
+	// tester
 	@Test(priority=2, description="This TC to verify the create fee tab")
 	public void Creats_fee()
 	{
